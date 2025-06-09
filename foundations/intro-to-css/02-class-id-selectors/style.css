@@ -1,0 +1,30 @@
+.oddies{	
+	background-color: #f38ba8 ;
+	font-family: Verdana,hermit,"DejaVu Sans",sans-serif;
+	color: black;
+}
+
+
+body{
+	background-color: #1e1e2e;
+	color: #cdd6f4;
+	
+}	
+
+#two{
+	color: #94e2d5;
+	font-size: 36px;
+}
+
+.three{
+	font-size: 24px;
+}
+
+#four{
+	background-color: #179299;
+	font-size: 24px;
+	font-weight: bold;
+	color: black;
+}
+
+
